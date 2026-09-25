@@ -11,6 +11,14 @@ The workflow moves from data cleaning and basic analysis in Excel, to SQL-based
 analysis, and finally to an interactive Power BI dashboard and business insights
 report.
 
+## Permission & Disclaimer
+
+Permission was obtained from Primeor Solutions to showcase the project and
+its related work publicly on GitHub for portfolio and learning purposes.
+
+The repository is intended solely to demonstrate my analytical work and
+learning outcomes during the internship.
+
 ## Project Scope
 
 The analysis covered:
@@ -149,14 +157,12 @@ customer insights and operational patterns.
 
 ## Files
 
-- `Cleaned_Dataset.csv` — cleaned and analysis-ready dataset
-- `Excel_Analyzed.xlsx` — Excel cleaning, calculations, PivotTables and charts
-- `Sql_queries(1).sql` — MySQL database setup and analytical queries
-- `SQL Analysis Results and Insights(1).xlsx` — SQL outputs and summarized
-  insights
-- `Primeor_DAInt_Ecom_Analysis Dashboard(1).pbix` — Power BI dashboard
-- `Primeor_Final_Business_Insights_Report(3).pdf` — final business insights
-  report
+- [Cleaned dataset.csv — cleaned and analysis-ready dataset ](https://github.com/Samadrita-2002/Global-E-Commerce-Sales-Profitability-Analysis/blob/main/Cleaned_Dataset.csv)
+- [Excel_Analyzed.xlsx — Excel cleaning, calculations, PivotTables and charts](https://github.com/Samadrita-2002/Global-E-Commerce-Sales-Profitability-Analysis/blob/main/Excel_Analyzed.xlsx)
+- [SQL_queries.sql — MySQL database setup and analytical queries](https://github.com/Samadrita-2002/Global-E-Commerce-Sales-Profitability-Analysis/blob/main/Sql_queries.sql)
+- [SQL Analysis Results and Insights.xlsx — SQL outputs and summarized insights](https://github.com/Samadrita-2002/Global-E-Commerce-Sales-Profitability-Analysis/blob/main/SQL%20Analysis%20Results%20and%20Insights.xlsx)
+- [Power BI Dashboard.pdf](https://github.com/Samadrita-2002/Global-E-Commerce-Sales-Profitability-Analysis/blob/main/Primeor_DAInt_Ecom_Analysis%20Dashboard.pdf)
+- [Primeor_Final_Business_Insights_Report.pdf — final business insights report](https://github.com/Samadrita-2002/Global-E-Commerce-Sales-Profitability-Analysis/blob/main/Primeor_Final_Business_Insights_Report.pdf)
 
 ## Learning Outcomes
 
